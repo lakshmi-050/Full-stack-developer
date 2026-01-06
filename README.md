@@ -2,7 +2,7 @@
 This is my first repository.
 
 # Student
-lakshmi
+lakshmi.
 
 # Teacher
 Shradha khapra
